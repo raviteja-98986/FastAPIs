@@ -1,0 +1,67 @@
+[
+  {
+    "patient_id": "P1001",
+    "name": "Ravi Kumar",
+    "age": 32,
+    "gender": "Male",
+    "blood_group": "B+",
+    "phone": "9876543210",
+    "disease": "Fever",
+    "doctor": "Dr. Meena",
+    "admitted": true,
+    "room_no": 204,
+    "medications": ["Paracetamol", "Vitamin C"]
+  },
+  {
+    "patient_id": "P1002",
+    "name": "Sneha Reddy",
+    "age": 27,
+    "gender": "Female",
+    "blood_group": "O+",
+    "phone": "9123456780",
+    "disease": "Diabetes",
+    "doctor": "Dr. Arjun",
+    "admitted": false,
+    "room_no": null,
+    "medications": ["Metformin"]
+  },
+  {
+    "patient_id": "P1003",
+    "name": "Karthik Sharma",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "A-",
+    "phone": "9988776655",
+    "disease": "Hypertension",
+    "doctor": "Dr. Priya",
+    "admitted": true,
+    "room_no": 310,
+    "medications": ["Amlodipine", "Aspirin"]
+  },
+  {
+    "patient_id": "P1004",
+    "name": "Anjali Verma",
+    "age": 19,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "phone": "9012345678",
+    "disease": "Asthma",
+    "doctor": "Dr. Kiran",
+    "admitted": false,
+    "room_no": null,
+    "medications": ["Inhaler"]
+  },
+  {
+    "patient_id": "P1005",
+    "name": "Mohit Das",
+    "age": 60,
+    "gender": "Male",
+    "blood_group": "O-",
+    "phone": "9090909090",
+    "disease": "Heart Disease",
+    "doctor": "Dr. Swathi",
+    "admitted": true,
+    "room_no": 115,
+    "medications": ["Atorvastatin", "Clopidogrel"]
+  }
+]
