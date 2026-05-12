@@ -5,27 +5,44 @@
 
 🚀 Built a Student Management REST API using FastAPI & Pydantic
 
+
 🔹 Features Implemented:
+
 ✅ Create Student API
+
 ✅ Update Student API using PUT
+
 ✅ Partial Update using PATCH
+
 ✅ Data Validation with Pydantic
+
 ✅ Field Constraints using Field()
+
 ✅ JSON File Storage
+
 ✅ Exception Handling with HTTPException
+
 ✅ Response Handling using JSONResponse
 
+
 📌 Concepts Practiced:
+
 • Path Parameters
+
 • Request Body Validation
+
 • model_dump()
+
 • exclude_unset=True
-• Dictionary update() method
+
 • REST API methods (POST, PUT, PATCH)
 
 Tech Stack:
+
 🐍 Python
+
 ⚡ FastAPI
+
 🛡️ Pydantic
 
 
